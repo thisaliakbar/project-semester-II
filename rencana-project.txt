@@ -6,3 +6,4 @@ Rencana project
 * Fitur pencarian data / search
 * Fitur keamanan dengan verifikasi melalui email
 * Menambahkan fitur insert,update,delete
+* Menambahkan fitur penghitungan total secara otomatis
