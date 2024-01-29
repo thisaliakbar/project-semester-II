@@ -3,6 +3,6 @@ Rencana project
 - Mmeiliki fitur sesuai kontrak kuliah
 * Fitur barcode/scanner
 * Fitur cetak resit
+* Fitur pencarian data / search
 * Fitur keamanan dengan verifikasi melalui email
-* Fitur registrasi dengan verifikasi melalui email
 * Menambahkan fitur insert,update,delete
