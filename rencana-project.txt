@@ -5,3 +5,4 @@ Rencana project
 * Fitur cetak resit
 * Fitur keamanan dengan verifikasi melalui email
 * Fitur registrasi dengan verifikasi melalui email
+* Menambahkan fitur insert,update,delete
